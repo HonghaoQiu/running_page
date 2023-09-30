@@ -26,7 +26,7 @@ env:
   TITLE: QiuHonghao Running
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
-  GITHUB_NAME: QiuHonghao # change to yours
+  GITHUB_NAME: HonghaoQiu # change to yours
   GITHUB_EMAIL: 2624577447@qq.com # change to yours
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
